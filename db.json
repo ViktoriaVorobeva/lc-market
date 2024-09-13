@@ -1,0 +1,165 @@
+{
+  "advertisements": [
+    {
+      "id": "1",
+      "name": "Стул старинный",
+      "description": "Очень красивый",
+      "price": "20000",
+      "createdAt": "2022-08-12T20:16:55.351Z",
+      "views": 20,
+      "likes": 2,
+      "imageUrl": "",
+      "requestId": "0LfSe75jlnpgx-88OA-bW",
+      "signal": {}
+    },
+    {
+      "id": "2",
+      "name": "Ведро снега",
+      "description": "Последняя возможность купить по выгодной цене!",
+      "price": 3000,
+      "createdAt": "2023-08-12T20:16:55.351Z",
+      "views": 77832,
+      "likes": 45666,
+      "imageUrl": ""
+    },
+    {
+      "id": "3",
+      "name": "Плащ невидимка",
+      "price": 10000000,
+      "createdAt": "2024-08-12T20:16:55.351Z",
+      "views": 900,
+      "likes": 19,
+      "imageUrl": ""
+    },
+    {
+      "id": "4",
+      "name": "Ковер",
+      "description": "Стильный модный, как у бабушки в деревне :)))",
+      "price": 5000,
+      "createdAt": "2024-07-12T20:16:55.351Z",
+      "views": 2000000,
+      "likes": 2,
+      "imageUrl": ""
+    },
+    {
+      "id": "5",
+      "name": "Носки",
+      "price": 6000,
+      "createdAt": "2024-06-12T20:16:55.351Z",
+      "views": 0,
+      "likes": 0,
+      "imageUrl": ""
+    },
+    {
+      "id": "6",
+      "name": "Картонная коробка",
+      "description": "Прочная.",
+      "price": 7000,
+      "createdAt": "2024-04-12T20:16:55.351Z",
+      "views": 1,
+      "likes": 0,
+      "imageUrl": "data:image/jpeg;base64,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"
+    },
+    {
+      "id": "7",
+      "name": "Угловой диван",
+      "description": "Стих для привлечения внимания: дама сдавала в багаж диван, чемодан, саквояж, картину, корзину, картонку и маленькую собачонку. выдали даме на станции четыре зеленых квитанции о том, что получен багаж: диван, чемодан, саквояж, картина, корзина, картонка и маленькая собачонка. вещи везут на перрон. кидают в открытый вагон. готово. уложен багаж: диван, чемодан, саквояж, картина, корзина, картонка и маленькая собачонка. но только раздался звонок, удрал из вагона щенок. хватились на станции дно: потеряно место одно. в испуге считают багаж: диван, чемодан, саквояж, картина, корзина, картонка… — товарищи! где собачонка? вдруг видят: стоит у колес огромный взъерошенный пес. поймали его — и в багаж, туда, где лежал саквояж, картина, корзина, картонка, где прежде была собачонка. приехали в город житомир. носильщик пятнадцатый номер везет на тележке багаж: диван, чемодан, саквояж, картину, корзину, картонку, а сзади ведут собачонку. собака-то как зарычит, а барыня как закричит: — разбойники! воры! уроды! собака — не той породы! швырнула она чемодан, ногой отпихнула диван, картину, корзину, картонку… — отдайте мою собачонку! — позвольте, мамаша! на станции, согласно багажной квитанции, от вас получили багаж: диван, чемодан, саквояж, картину, корзину, картонку и маленькую собачонку. однако за время пути собака могла подрасти!",
+      "price": 999,
+      "createdAt": "2024-08-12T14:16:55.351Z",
+      "views": 20000,
+      "likes": 1,
+      "imageUrl": ""
+    },
+    {
+      "id": "8",
+      "name": "Новый айфон",
+      "price": 100000,
+      "createdAt": "2024-08-12T12:16:55.351Z",
+      "views": 200000,
+      "likes": 302,
+      "imageUrl": ""
+    },
+    {
+      "id": "4783",
+      "name": "test",
+      "price": "10",
+      "createdAt": "2024-09-13T13:32:27.446Z"
+    },
+    {
+      "id": "fdda",
+      "name": "ghost",
+      "price": 0,
+      "createdAt": "2024-09-13T13:33:55.270Z"
+    },
+    {
+      "id": "052b",
+      "name": "jnjnkjn",
+      "price": 0,
+      "createdAt": "2024-09-13T13:35:14.162Z"
+    }
+  ],
+  "orders": [
+    {
+      "id": "1",
+      "status": 0,
+      "createdAt": "2024-08-12T20:20:55.351Z",
+      "finishedAt": "",
+      "total": 314000,
+      "deliveryWay": "mail",
+      "items": [
+        {
+          "id": "8",
+          "name": "Новый айфон",
+          "price": 100000,
+          "createdAt": "2024-08-12T12:16:55.351Z",
+          "views": 200000,
+          "likes": 302,
+          "imageUrl": "",
+          "count": 3
+        },
+        {
+          "id": "6",
+          "name": "Картонная коробка",
+          "description": "Почная.",
+          "price": 7000,
+          "createdAt": "2024-04-12T20:16:55.351Z",
+          "views": 1,
+          "likes": 0,
+          "imageUrl": "",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "status": 4,
+      "createdAt": "2024-08-12T20:20:55.351Z",
+      "finishedAt": "2024-08-12T20:25:55.351Z",
+      "total": 33000,
+      "deliveryWay": "sdek",
+      "items": [
+        {
+          "id": "2",
+          "name": "Ведро снега",
+          "description": "Последняя возможность купить по выгодной цене!",
+          "price": 3000,
+          "createdAt": "2023-08-12T20:16:55.351Z",
+          "views": 77832,
+          "likes": 45666,
+          "imageUrl": "",
+          "count": 10
+        },
+        {
+          "id": "5",
+          "name": "Носки",
+          "price": 6000,
+          "createdAt": "2024-06-12T20:16:55.351Z",
+          "views": 0,
+          "likes": 0,
+          "imageUrl": "",
+          "count": 5
+        }
+      ]
+    }
+  ]
+}
